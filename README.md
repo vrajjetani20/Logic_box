@@ -73,13 +73,16 @@ Pattern Generator and Number Analyzer
 # 📸 Screenshots
 
 ## 🏠 Main Menu / Pattern Output
-![Pattern Output](pattenoutpu.png)
+<img width="592" height="527" alt="pattenoutpu" src="https://github.com/user-attachments/assets/501bdb37-3bb7-429e-977c-3a9ca3ffe53e" />
+
 
 ## 🔢 Number Analyzer Output
-![Number Analyzer Output](oddevennumoytput.png)
+
+<img width="475" height="532" alt="oddevennumoytput" src="https://github.com/user-attachments/assets/66154f57-2b20-4e06-8f47-c0fee1eb31fe" />
 
 ## 🚪 Exit Output
-![Exit Output](exitoutput.png)
+<img width="406" height="247" alt="exitoutput" src="https://github.com/user-attachments/assets/15fe6c2d-72ff-49ef-a03c-609ba3193910" />
+
 
 ---
 
